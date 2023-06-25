@@ -1,0 +1,74 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "description": "Hacer la compra de comestibles.",
+      "completed": false
+    },
+    {
+      "id": 7,
+      "description": "Organizar los documentos importantes.",
+      "completed": false
+    },
+    {
+      "id": 8,
+      "description": "Hacer ejercicio durante 30 minutos.",
+      "completed": false
+    },
+    {
+      "id": 9,
+      "description": "Planificar las vacaciones de verano.",
+      "completed": false
+    },
+    {
+      "id": 10,
+      "description": "Enviar el informe al jefe.",
+      "completed": false
+    },
+    {
+      "id": 11,
+      "description": "Reparar la tubería que gotea.",
+      "completed": true
+    },
+    {
+      "id": 12,
+      "description": "Actualizar el currículum vitae.",
+      "completed": true
+    },
+    {
+      "id": 13,
+      "description": "Investigar sobre nuevos cursos en línea.",
+      "completed": false
+    },
+    {
+      "id": 15,
+      "description": "Organizar una reunión de equipo.",
+      "completed": false
+    },
+    {
+      "id": 16,
+      "description": "Ordenar el armario y donar ropa no utilizada.",
+      "completed": false
+    },
+    {
+      "id": 17,
+      "description": "Completar el formulario de solicitud.",
+      "completed": false
+    },
+    {
+      "id": 18,
+      "description": "Configurar una alarma para despertarse temprano.",
+      "completed": false
+    },
+    {
+      "id": 19,
+      "description": "Investigar sobre recetas saludables.",
+      "completed": true
+    },
+    {
+      "id": 20,
+      "description": "Comenzar a escribir un diario.",
+      "completed": false
+    }
+  ]
+}
